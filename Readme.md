@@ -1,5 +1,4 @@
-
-# 🍕 Pizza Sales Analysis using SQL
+# Pizza Sales Analysis using SQL 🍕
 
 ##  📋 Table of Contents
 - [Introduction](#introduction)
